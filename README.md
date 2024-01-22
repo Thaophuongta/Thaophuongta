@@ -10,12 +10,12 @@ I aim to establish myself to work as a Data Analyst/Engineer in the financial, r
 
 ### Key skills ###
 - Analytical skills, attention to detail, problem-solving, decision-making, negotiation, communication, high workload, and time pressure management
+### Certificates ### 
+- Azure Data Fundamental (DP-900)
+- Data Analyst in Power BI (Datacamp Certificate). Also, scheduled Microsoft Power BI (PL-300) exam in Jan 2024
 ### Softwares ### 
 - Data Visualisation: Microsoft Power BI, Tableau
 - Advanced Excel with Pivots analysis
 - Coding: SQL, Python, R Studio
 - Database management: Microsoft Access, SQL Server
 - Project management: Microsoft Project
-### Certificates ### 
-- Azure Data Fundamental (DP-900)
-- Data Analyst in Power BI (Datacamp Certificate). Also, scheduled Microsoft Power BI (PL-300) exam in Jan 2024
