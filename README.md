@@ -1,4 +1,4 @@
-# Personal Profit #
+# Personal Profile #
 I am a dedicated and accomplished Business owner with nearly 10 years of experience in the hospitality and property sectors possessing a strong background in finance, analytical skills, and diligence. I am targeting to make a career change in the data industry which I have been passionate about and most suitable to my abilities and skillsets.
 
 Currently, I am engaged in a Digital Skills Bootcamp with JustIT Training as an aspiring Data Technician to consolidate my skills. Also, I am doing Data Analyst Associate Certificate with DataCamp.
