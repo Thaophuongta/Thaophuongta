@@ -6,6 +6,7 @@ Currently, I am engaged in a Digital Skills Bootcamp with JustIT Training as an 
 I aim to establish myself to work as a Data Analyst/Engineer in the financial, retail, or property sectors where I have industrial experience and knowledge. I thrive working in a challenging environment, utilising my analytical and critical thinking skills to derive meaningful insights and contribute to important business decisions.
 - LinkedIn Account: [Link](www.linkedin.com/in/thao-ta-444545172)
 - Tableau Public: [Link](https://public.tableau.com/app/profile/thao.ta6225/vizzes)
+- Portfolios: [Excel Projects](https://github.com/Thaophuongta/Portfolios/tree/main/Excel%20Projects) [Power BI Projects](https://github.com/Thaophuongta/Portfolios/tree/main/Power%20BI%20Projects) [Python Projects](https://github.com/Thaophuongta/Portfolios/tree/main/Python%20Projects) [SQL Projects](https://github.com/Thaophuongta/Portfolios/tree/main/SQL%20Projects) [Tableau Projects](https://github.com/Thaophuongta/Portfolios/tree/main/Tableau%20Projects)
 
 ### Key skills ###
 - Analytical skills, attention to detail, problem-solving, decision-making, negotiation, communication, high workload, and time pressure management
