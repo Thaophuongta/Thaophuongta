@@ -13,9 +13,10 @@ With a proven ability to learn, design and implement robust data analysing, data
 - Proficient with tools such as JIRA, IntelliJ, Git, Linux command line, Shell Scripting, ElasticSearch, and the Angular framework.
   
 ### Certificates ### 
--	Certified Quantexa Data Engineer Certification
+-	Certified Quantexa Data Engineer
+-	Certified Quantexa Scoring Engineer
 -	Certified Quantexa Technical Business Analyst
-- Microsoft Certified: Azure Data Fundamental (DP-900)
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - MSc, Business Project Management (2:1) - University of Huddersfield
 - BA, Foreign Trade Economics (Distinction) - Foreign Trade University
